@@ -29,7 +29,6 @@ Other tools included:
 
 8) C-Pane
 
-l
 9) ECMAScript 2016
 
 
