@@ -2,10 +2,9 @@
 
 Online Portfolio in Angular v4
 
-This is my 2017 online portfolio made using primarily Angular v4.
+My 2017 online portfolio was made using primarily Angular v4.
 
 Other tools included:
-
 
 
 1) AngularJS v4
@@ -30,8 +29,8 @@ Other tools included:
 
 11) Terminal
 
-13) JSON
+12) JSON
 
-14) AJAX
+13) AJAX
 
-15) Semantic UI
+14) Semantic UI
