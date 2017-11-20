@@ -27,7 +27,7 @@ Other tools included:
 7) Sublime IDE
 
 
-8) C-Pane
+8) C-Panel
 
 9) ECMAScript 2016
 
