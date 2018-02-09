@@ -1,6 +1,6 @@
 # portfolio
 
-Online Portfolio in Angular v4
+Online Portfolio in Angular v5
 
 My 2017 online portfolio was made using primarily Angular v4.
 
