@@ -7,7 +7,7 @@ My 2017 online portfolio was made using primarily Angular v4.
 Other tools included:
 
 
-1) AngularJS v4
+1) AngularJS v5
 
 2) Git
 
@@ -34,3 +34,5 @@ Other tools included:
 13) AJAX
 
 14) Semantic UI
+
+15) TypeScript
