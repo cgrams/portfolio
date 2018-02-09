@@ -2,7 +2,7 @@
 
 Online Portfolio in Angular v5
 
-My 2017 online portfolio was made using primarily Angular v4.
+My 2017 online portfolio was made using primarily Angular v5.
 
 Other tools included:
 
